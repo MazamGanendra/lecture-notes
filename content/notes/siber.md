@@ -1,5 +1,5 @@
 ---
-title: "Biografi"
+title: "Siber dan"
 date: 2023-09-11T20:22:00+07:00
 authors: ['Mazam Viridi']
 tags: ['xx1000']
