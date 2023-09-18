@@ -1,7 +1,7 @@
 ---
 title: "Biografi"
 date: 2023-09-11T20:22:00+07:00
-authors: ['Sparisoma Viridi']
+authors: ['Mazam Viridi']
 tags: ['xx1000']
 draft: false
 math: true
