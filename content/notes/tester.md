@@ -1,5 +1,5 @@
 ---
-title: "MG"
+title: "Check"
 date: 2023-09-18T10:22:00+07:00
 authors: ['Mazam Ganendra']
 tags: ['xx1000']

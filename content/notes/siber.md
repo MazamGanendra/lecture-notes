@@ -1,6 +1,6 @@
 ---
-title: "Siber dan"
-date: 2023-09-11T20:22:00+07:00
+title: "Siber dan Keamanan"
+date: 2023-09-18T10:22:00+07:00
 authors: ['Mazam Viridi']
 tags: ['xx1000']
 draft: false
