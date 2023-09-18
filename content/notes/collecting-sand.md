@@ -1,7 +1,7 @@
 ---
-title: "Tulis"
+title: "Virus WannaCry"
 date: 2023-09-18T11:22:00+07:00
-authors: ['Mazam Viridi']
+authors: ['Mazam Ganendra']
 tags: ['xx1000']
 draft: false
 math: true
