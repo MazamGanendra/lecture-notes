@@ -1,5 +1,5 @@
 ---
-title: "organizational culture"
+title: "organizational Culture"
 date: 2023-09-07T14:03:00+07:00
 authors: ['Sparisoma Viridi']
 tags: ['nt6094']
