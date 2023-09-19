@@ -1,6 +1,6 @@
 ---
-title: "WannaCry, Virus Mematikan Pada Masanya  "
-date: 2023-09-18T10:22:00+07:00
+title: "WannaCry, Virus Pemeras Mematikan Pada Masanya  "
+date: 2023-09-19T07:22:00+07:00
 authors: ['Mazam Ganendra']
 tags: ['xx1000']
 draft: false
